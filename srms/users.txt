@@ -1,0 +1,3 @@
+admin  admin0000  ADMIN
+staff  staff6666 staff
+user  user1243  user
